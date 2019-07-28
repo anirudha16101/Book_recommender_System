@@ -1,5 +1,7 @@
 # Book_recommender_System
 Scratch implementation of book Recommender system using collaborative Filtering and Popularity based Method
+
+
 Dataset used- BookCrossing Dataset ,This dataset has been compiled by Cai-Nicolas Ziegler in 2004, and it comprises of three tables for users, books and ratings.
 Explicit ratings are expressed on a scale from 1–10 (higher values denoting higher appreciation) and implicit rating is expressed by 0.
 
